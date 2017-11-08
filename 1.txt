@@ -1,2 +1,1 @@
-step bby step process 
-second step 
+gitbranch commit checking 
